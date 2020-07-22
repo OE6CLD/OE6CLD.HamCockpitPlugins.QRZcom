@@ -5,4 +5,4 @@ This started as a first project for HamCockpit. It will retrieve both informatio
 
 This is work in progress and my first try with C# :)
 
-![image](https://user-images.githubusercontent.com/49873708/88154638-67691a00-cc07-11ea-9e1c-680a9bb446bf.png)
+![image](https://user-images.githubusercontent.com/49873708/88155044-db0b2700-cc07-11ea-8de2-b790cbc84765.png)
